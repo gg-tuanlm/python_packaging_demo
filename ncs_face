@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+from ncs_face_detection import video_objects_scalable as app
+
+if __name__ == '__main__':
+    app.main()

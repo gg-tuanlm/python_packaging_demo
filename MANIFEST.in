@@ -1,0 +1,3 @@
+graft aicampj docs
+global-exclude *.py[cod] __pycache__ *.graph
+
