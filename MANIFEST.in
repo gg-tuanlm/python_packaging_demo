@@ -1,3 +1,6 @@
-graft aicampj docs
-global-exclude *.py[cod] __pycache__ *.graph
+graft ncs_face_detection
+graft docs
+global-exclude *.py[cod]
+global-exclude __pycache__
+global-exclude *.graph
 
